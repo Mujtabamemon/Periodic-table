@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    font-size: 100px;
+}
+.bgred{
+background-color:rgb(236, 230, 175);
+}
+.fgreen{
+    color:rgb(0, 151, 13);
+}
+.fblue{
+    color: blue;
+}
+.fred{
+    color: red;
+}
+
+table{empty-cells: hide;
+align-items: center; 
+border: none;
+margin: auto;
+}
+
+tr{
+    text-align: center;
+    border: 2px solid blue;
+}
+.bluebg{
+    background-color: rgb(0, 162, 255);
+}
+.purplebg{
+    background-color: rgb(224, 0, 245);
+}
+.lemonbg{
+    background-color:rgb(255, 255, 152)
+}
+.brownbg{
+    background-color: rgb(206, 151, 49);
+}
+.lightgreenbg{
+    background-color: rgb(177, 231, 105);
+}
+.peachbg{
+    background-color: coral;
+}
+.lightbluebg{
+    background-color:lightblue;
+}
+.lightpurplebg{
+    background-color:rgb(253, 234, 237);
+    width: 60px;
+}
